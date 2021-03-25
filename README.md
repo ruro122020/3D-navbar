@@ -1,3 +1,7 @@
+# 3D Navbar
+
+Playing around with CSS3 and bootstrap in a reactjs application. Trying out different designs for the navigation bar.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
